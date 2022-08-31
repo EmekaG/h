@@ -1,1 +1,1 @@
-to change working directory to home directory
+Display current directory contents, including hidden files (starting with .). Use the long format.
