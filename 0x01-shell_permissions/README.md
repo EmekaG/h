@@ -1,1 +1,1 @@
-adds execution permission to the owner, the group owner and the other users, to the file 
+adds only other users permissions
