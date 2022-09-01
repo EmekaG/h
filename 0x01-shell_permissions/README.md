@@ -1,1 +1,1 @@
-change mode of file to olleh mode
+add execution permission for all subdirectories
