@@ -1,1 +1,1 @@
-My readme file for the third repo of my shell basics project
+switches the current user to the user betty
