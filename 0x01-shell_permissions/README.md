@@ -1,1 +1,1 @@
-changes the owner and the group owner of _hello
+changes the owner of the file hello to betty
