@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/ksh
+root:x:0:0:root:/root:/bin/ash
