@@ -1,2 +1,2 @@
 #!/bin/bash
-/root:/bin/ash
+grep -i root /et/passwd
