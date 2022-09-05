@@ -1,2 +1,2 @@
 #!/bin/bash
-root:!:0:0::/:/usr/bin/ksh
+/usr/bin/ksh
