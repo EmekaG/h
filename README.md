@@ -1,1 +1,1 @@
-switches the current user to the user betty
+Create a script that creates an alias
